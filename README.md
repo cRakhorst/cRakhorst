@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Chris Rakhorst
+- 👋 Hi, I’m Chris!
 - 👀 I’m interested in learning to make games
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me: via discord (@Chrisyboylol)
-- 😄 Pronouns: he/him
+- 📫 How to reach me: via discord (@synthi_the_coder)
+- 😄 Pronouns: she/her/he/him
